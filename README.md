@@ -1,4 +1,3 @@
-# Web-Develop-Self-study
 
 This repository contains homeworks and final projects that come from two Stanford's courses CS193x Web Programming Fundamentals and CS142 Web Application.
 
