@@ -5,8 +5,8 @@ This repository contains homeworks and final projects that come from two Stanfor
 - Practice more in CSS and Javascript, and then learn the basis backend (NodeJS, Express, MongoDb, Mongoose)
 - Time: 5 weeks (May 14 - June 17)
 - Deliverable:
-    + HW0
-    + HW1
+    + HW0: Get familar with Github
+    + HW1: Build a basic HTML page with CSS style (font face, size, color, image, link; Paralax Effect and Animations)
     + HW2
     + HW3
     + HW4
