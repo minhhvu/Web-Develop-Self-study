@@ -1,0 +1,94 @@
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: #e6e6e6;
+}
+
+.header{
+    background-image: url(../images2/banner.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-words{
+    font-family: "Indie Flower", Courier;
+    color: aliceblue;
+    text-align: center;
+}
+
+.header-words h1{
+    font-size:  70px;
+    margin-bottom: 0;
+    letter-spacing: 15px;
+}
+
+.header-words h2{
+    font-size: 30px;
+}
+
+#musictheme{
+    size: auto;
+}
+
+.webcontent{
+    margin-top: 50px;
+}
+
+.items{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.item-lyric{
+    width: 50%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50%;
+    margin-bottom: 20px;
+}
+
+.item-lyric1{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-bottom: 20px;
+}
+
+.item-lyric, .item-lyric1 p{
+    font-family: Tahoma, "Indie Flower", "Special Elite";
+    letter-spacing: 2.5px;
+}
+
+.item-pic{
+    height: 66.67vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-attachment: fixed;
+
+}
+
+#item-pic1{
+    background-image: url("../images2/image1.jpg");
+}
+
+#item-pic2{
+    background-image: url("../images2/image2.jpg");
+}
+
+#item-pic3{
+    background-image: url("../images2/image3.jpg");
+}
