@@ -7,7 +7,7 @@ This repository contains homeworks and final projects that come from two Stanfor
 - Deliverable:
     + HW0: Get familar with Github
     + HW1: Build a basic HTML page with CSS style (font face, size, color, image, link; Paralax Effect and Animations)
-    + HW2: Practice Javascript syntax - event listener, accessing to html elements 
+    + HW2: Practice Javascript syntax - event listener, HTML DOM (accessing to html elements) 
     + HW3
     + HW4
     + HW5
